@@ -28,6 +28,11 @@ nav a {
   text-decoration: none;
 }
 
+nav a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
 .hero {
   text-align: center;
   padding: 80px 20px;
@@ -45,6 +50,10 @@ nav a {
   margin-top: 20px;
 }
 
+.btn:hover {
+  background: #9f6efc;
+}
+
 .content {
   padding: 40px 20px;
   max-width: 800px;
@@ -57,6 +66,28 @@ nav a {
   padding: 20px;
   margin: 20px 0;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
+}
+
+.project-card h3 {
+  color: #bb86fc;
+  margin-top: 0;
+}
+
+.project-card a {
+  color: #03dac6;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.project-card a:hover {
+  text-decoration: underline;
+  color: #00fff0;
 }
 
 footer {
