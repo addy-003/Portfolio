@@ -1,7 +1,7 @@
 ## Personal Portfolio Website
 
 This is my first *personal portfolio website* built using *HTML* and *CSS* (with a plan to add JavaScript in the future).  
-It showcases my *skills, **education, and **projects* as a beginner web developer.
+It showcases my skills, education, and projects as a beginner web developer.
 
 ---
 
