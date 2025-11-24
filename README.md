@@ -6,8 +6,8 @@ It showcases my skills, education, and projects as a beginner web developer.
 ---
 
 ### Live Demo  
-- *Live Website:* [https://adnanali369963-hash.github.io/Portfolio/](https://adnanali369963-hash.github.io/Portfolio/)  
-- *GitHub Repo:* [https://github.com/adnanali369963-hash/Portfolio](https://github.com/adnanali369963-hash/Portfolio)
+- *Live Website:* [https://addy-003.github.io/Portfolio/](https://addy-003.github.io/Portfolio/)  
+- *GitHub Repo:* [https://github.com/addy-003/Portfolio](https://github.com/addy-003/Portfolio)
 
 ---
 
